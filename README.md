@@ -1,62 +1,55 @@
-# Getting Started with Create React App
+# CoreChain Client V1 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![React](https://img.shields.io/badge/React-18.3.0-blue)
+![TypeScript](https://img.shields.io/badge/Antd-5.0.0-blue)
 
-## Available Scripts
+A project management, built with React (Create React App), Ant Design, Tailwind CSS, and advanced animation libraries.
 
-In the project directory, you can run:
+## ✨ Key Features
 
-### `npm start`
+### System Management
+- 🛠️ Project & task management
+- 👥 User management & permissions
+- 🔐 JWT authentication and session management
+- 📊 Analytics dashboard with Recharts
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Communication
+- 📁 File and document upload
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### UI/UX
+- Ant Design v5
+- Tailwind CSS + tailwind-merge
+- Dark / Light mode (extendable)
+- Smooth animations with GSAP & Framer Motion
+- Swiper sliders
+- Page loading indicator with NProgress
+- Fully responsive design
 
-### `npm test`
+## 🛠 Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Frontend:**
+- React 18.3
+- Create React App (react-scripts 5)
+- JavaScript / TypeScript-ready
+- Ant Design 5
+- Tailwind CSS 3
+- React Router DOM v7
+- Axios
+- Day.js
 
-### `npm run build`
+## 🚀 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### System Requirements
+- Node.js v18+
+- Yarn/NPM
+- Docker (optional)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
+### Installation
+```bash
+git clone https://github.com/ahkiet22/CoreChainClientV1.git
+cd CoreChainClient
+npm install | yarn install
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
